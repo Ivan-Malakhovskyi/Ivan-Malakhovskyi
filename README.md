@@ -1,8 +1,10 @@
-### Hi there 👋
+f### Hi there, I'm Ivan Malakhovskyi 👋
 
 <!--
+
 **Ivan-Malakhovskyi/Ivan-Malakhovskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Every day, I make it a point to learn something new. Whether it's a new skill, a new language, or just some trivia, I believe that learning something new every day keeps me sharp and engaged with the world around me. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
