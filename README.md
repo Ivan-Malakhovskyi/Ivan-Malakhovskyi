@@ -1,4 +1,4 @@
-f### Hi there, I'm Ivan Malakhovskyi 👋
+ Hi there, I'm Ivan Malakhovskyi 👋
 
 <!--
 
