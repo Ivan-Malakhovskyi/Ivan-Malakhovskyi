@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋,I'm Ivan Malakhovskyi</h1>
 <h3 align="center">A enthusiastic frontend developer from Ukraine,Vinnytsia</h3>
 
-- 🔭 I’m currently working on [goit-typescript-hw-02](https://github.com/Ivan-Malakhovskyi/goit-typescript-hw-02)
+- 🔭 I’m currently working on [goit-typescript-hw-02](https://github.com/Ivan-Malakhovskyi/goit-typescript-hw-04)
 
 - 🌱 I’m currently learning **TypeScript**
 
