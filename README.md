@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [node.js-hw-rest-API](https://github.com/Ivan-Malakhovskyi/node.js-hw-rest-API/tree/hw02-express)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **React, Redux, JS**
+- 💬 Ask me about **JavaScript,React, Redux**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFvLKt86NI/GqBFeaYlMM2wFDIfBjd6xA/view?utm_content=DAFvLKt86NI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFvLKt86NI/GqBFeaYlMM2wFDIfBjd6xA/view?utm_content=DAFvLKt86NI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
