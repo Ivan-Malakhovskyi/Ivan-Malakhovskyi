@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋,I'm Ivan Malakhovskyi</h1>
 <h3 align="center">A enthusiastic frontend developer from Ukraine,Vinnytsia</h3>
 
-- 🔭 I’m currently working on [goit-typescript-hw-04](https://github.com/Ivan-Malakhovskyi/node.js-hw-rest-API/tree/hw02-express)
+- 🔭 I’m currently working on [node.js-hw-rest-API](https://github.com/Ivan-Malakhovskyi/node.js-hw-rest-API/tree/hw02-express)
 
 - 🌱 I’m currently learning **TypeScript**
 
