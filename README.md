@@ -1,13 +1,13 @@
 <h1 align="center">Hi there👋,I'm Ivan Malakhovskyi</h1>
 <h3 align="center">A enthusiastic frontend developer from Ukraine,Vinnytsia</h3>
 
-- 🔭 I’m currently working on [node.js-hw-rest-API](https://github.com/Ivan-Malakhovskyi/node.js-hw-rest-API/tree/hw02-express)
+- 🔭 I’m currently working on [Next.js-App](https://github.com/Ivan-Malakhovskyi/next-app)
 
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **JavaScript,React, Redux**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFvLKt86NI/GqBFeaYlMM2wFDIfBjd6xA/view?utm_content=DAFvLKt86NI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFvLKt86NI/GqBFeaYlMM2wFDIfBjd6xA/view?utm_content=DAFvLKt86NI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAF8l4paNow/8ksuK-t_zhMo0k0kj7DpPw/view?utm_content=DAF8l4paNow&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <p align="left">
 </p>
