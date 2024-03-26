@@ -40,7 +40,6 @@
         width="40" height="40" alt="mongodb" /> </a> <a href="https://www.postman.com/" target="_blank"
       rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"
         height="40" alt="postman" /> </a>
-
     <span>
       <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img
           src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
@@ -50,7 +49,6 @@
           src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a
         href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
           src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-
     </span>
 
 </p>
