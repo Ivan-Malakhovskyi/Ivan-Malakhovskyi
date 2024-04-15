@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, <b>I'm Ivan Malakhovskyi</b></h1>
 <h3 align="center">A enthusiastic <b>Full Stack developer</b> from Ukraine,Vinnytsia</h3>
 
-- 🔭 I’m currently working on [Learn Lingo](https://github.com/Ivan-Malakhovskyi/learn-lingo-pet-project)
+- 🔭 I’m currently working on [TechStop](https://github.com/OlegTernovuy/TechStop)
 
 - 📄 Know about my experiences
 [Resume](https://www.canva.com/design/DAF8l4paNow/8ksuK-t_zhMo0k0kj7DpPw/view?utm_content=DAF8l4paNow&utm_campaign=designshare&utm_medium=link&utm_source=editor)
