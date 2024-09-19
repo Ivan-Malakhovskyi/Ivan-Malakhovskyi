@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-I'm currently looking for new opporunities 🤝<br>Know about my experiences 🤌<br>My porftfolio 🔥
+I'm currently looking for new opporunities 🤝<br><a href='https://drive.google.com/file/d/1l6AiHYJbWTkzp8TR59iWs_OH7nWn6jks/view?usp=drive_link' target='_blank'>Know about my experiences</a> 🤌<br><a href="https://portfolio-by-ivan-malakhovskyi.vercel.app/" target="_blank">My porftfolio</a> 🔥
 
 ## 🌐 Socials:
 
