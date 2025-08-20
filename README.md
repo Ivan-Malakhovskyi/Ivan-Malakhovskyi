@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-I'm currently looking for new opporunities 🤝<br><a href='https://drive.google.com/file/d/1l6AiHYJbWTkzp8TR59iWs_OH7nWn6jks/view?usp=drive_link' target='_blank' style="text-decoration: none; padding: 16px; border: 1px solid #ccc">Know about my experiences</a> 🤌<br><a href="https://portfolio-by-ivan-malakhovskyi.vercel.app/" target="_blank" style="text-decoration: none; padding: 16px; border: 1px solid #ccc">My portfolio</a> 🔥
+I'm currently looking for new opporunities 🤝<br><a href='https://drive.google.com/file/d/1e17czjHUdknKcfF7q7b5kAgGo66KHlNF/view?usp=sharing' target='_blank' style="text-decoration: none; padding: 16px; border: 1px solid #ccc">Know about my experiences</a> 🤌<br><a href="https://portfolio-by-ivan-malakhovskyi.vercel.app/" target="_blank" style="text-decoration: none; padding: 16px; border: 1px solid #ccc">My portfolio</a> 🔥
 
 ## 🌐 Socials:
 
