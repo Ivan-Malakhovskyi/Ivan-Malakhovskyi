@@ -1,29 +1,81 @@
-<h1 align="center">Hi there👋, <b>I'm Ivan Malakhovskyi</b></h1>
-<h3 align="center">A enthusiastic <b>Full Stack developer</b> from Ukraine,Vinnytsia</h3>
+<h1 align="center">Привіт 👋, я Full Stack Developer</h1>
 
-# 💫 About Me:
+<p align="center">
+  Створюю продукти на React/Next та навчаю дітей фронтенду 🚀
+</p>
 
-I'm currently looking for new opporunities 🤝<br><a href='https://drive.google.com/file/d/1MS7oRZlpFv12m_GkY2GPMxisDCURUwnu/view?usp=sharing' target='_blank' style="text-decoration: none; padding: 16px; border: 1px solid #ccc">Know about my experiences</a> 🤌<br><a href="https://portfolio-by-ivan-malakhovskyi.vercel.app/uk" target="_blank" style="text-decoration: none; padding: 16px; border: 1px solid #ccc">My portfolio</a> 🔥
-
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027616403531) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ivan_m_06/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-malakhovskyi/)
-
-# 💻 Tech Stack:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Ivan-Malakhovskyi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Malakhovskyi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Malakhovskyi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Teaching+kids+to+code+%F0%9F%8E%93" alt="Typing SVG" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Ivan-Malakhovskyi&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🧑‍💻 Про мене
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 Працюю full stack розробником, будую застосунки на React/Next + Node/Express
+- 🎓 Викладаю фронтенд дітям — від HTML/CSS до React
+- 🌱 Постійно вдосконалюю TypeScript та архітектурні підходи (Zustand, Redux)
+- 💬 Питайте про React, Next.js, TypeScript, Firebase — відповім із задоволенням
+- ⚡ Цікавлюсь чистим кодом та зрозумілими поясненнями (це важливо, коли вчиш дітей 😄)
+
+---
+
+### 🛠️ Технологічний стек
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+**Backend & DB**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+**Інструменти**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub статистика
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ТВІЙ_НІКНЕЙМ&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВІЙ_НІКНЕЙМ&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВІЙ_НІКНЕЙМ&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Як зі мною зв'язатись
+
+<p>
+  <a href="https://linkedin.com/in/ТВІЙ_ЛІНКЕДІН"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:твій_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a
+  <a href="https://t.me/ТВІЙ_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>Код без коментарів — як анекдот без пуанту 🙂</i>
+</p>
